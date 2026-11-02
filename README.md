@@ -214,9 +214,7 @@ INSERT INTO `year_levels` (`year_level_id`, `name`) VALUES
 
 --
 # -- Indexes for dumped tables
---
 
---
 -- Indexes for table `categories`
 --
 ALTER TABLE `categories`
@@ -282,9 +280,7 @@ ALTER TABLE `year_levels`
 
 --
 # -- AUTO_INCREMENT for dumped tables
---
 
---
 # -- AUTO_INCREMENT for table `categories`
 --
 ALTER TABLE `categories`
@@ -322,9 +318,7 @@ ALTER TABLE `users`
 
 --
 # -- Constraints for dumped tables
---
 
---
 # -- Constraints for table `items`
 --
 ALTER TABLE `items`
