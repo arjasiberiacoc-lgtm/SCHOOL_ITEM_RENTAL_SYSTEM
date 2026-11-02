@@ -17,11 +17,7 @@ SET time_zone = "+00:00";
 
 --
 # -- Database: `school_item_rental`
---
 
--- --------------------------------------------------------
-
---
 # -- Table structure for table `categories`
 --
 
